@@ -1,6 +1,6 @@
 # Tight Guarantees for Static Policies in Vehicle Sharing Networks
 
-This repository contains the code used to reproduce **Table 1** in [*Tight Guarantees for Static Policies in Vehicle Sharing Networks*](https://arxiv.org/abs/2610.13089)by Adam N. Elmachtoub and Jiaqi Shi.
+This repository contains the code used to reproduce **Table 1** in [*Tight Guarantees for Static Policies in Vehicle Sharing Networks*](https://arxiv.org/abs/2610.13089) by Adam N. Elmachtoub and Jiaqi Shi.
 
 ## Table 1
 
